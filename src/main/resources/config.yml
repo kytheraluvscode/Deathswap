@@ -1,0 +1,7 @@
+mode: "FIXED"
+
+fixed:
+  time: 12000 # 10 minutes
+random:
+  min: 12000 # 10 minutes
+  max: 18000 # 15 minutes

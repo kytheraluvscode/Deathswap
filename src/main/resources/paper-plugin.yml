@@ -1,0 +1,9 @@
+name: Deathswap
+description: $description
+version: '${version}'
+
+main: me.kythera.deathswap.Deathswap
+api-version: '26.3'
+load: POSTWORLD
+
+authors: [ Kythera ]
